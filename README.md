@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=TKL-tao.readme)
+![](https://visitor-badge.glitch.me/badge?page_id=TKL-tao)
