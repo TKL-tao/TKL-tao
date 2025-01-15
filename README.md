@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [HDFS Service](https://113.45.129.200:9871/dfshealth.html#tab-overview){target="_blank"}
+
+<a href="https://113.45.129.200:9871/dfshealth.html#tab-overview" target="_blank">HDFS Service</a>
