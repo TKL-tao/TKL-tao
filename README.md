@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 
 [HDFS Service](https://publicIP:9871/dfshealth.html#tab-overview)
 
+Modern BI system based on LLM: [Supersonic Service](http://113.45.129.200:9080) (from supersonic open-sourced project)
+
+Self-designed Modern BI system: [Data Art Insight](http://113.45.129.200:8080)
+
 
